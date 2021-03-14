@@ -3,12 +3,16 @@ h3 {
     text-align: center;
 }
 
-h4{
+h4{px
+    
     color: rgb(14, 136, 212)
+    
 }
 
 p{
     text-align: justify;
+   
+    
 }
 
 img {
@@ -33,7 +37,7 @@ img {
   display: table;
   clear: both;
 }
-  
+
   /* On mouse-over, add a deeper shadow */
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
